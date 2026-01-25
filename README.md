@@ -1,16 +1,15 @@
-## Hi there 👋
+learn by doing.
 
-<!--
-**syntaxtrash/syntaxtrash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## technical interests
+- system design & architecture
+- ai agents & workflows
+- web architecture paradigms
+- evolutionary architecture
+- day 2 operations
+- system hardening
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## synthesized notes
+feed them into your ai agents ;)
+- [The Architecture Decision Log: A Comprehensive Framework for Enterprise Knowledge Management](https://gist.io/@syntaxtrash/13b1eef42637f39fa719d1b79689095f)
+- [Architectural Taxonomy and Nomenclature Standards for Software Repositories: A Comprehensive Framework](https://gist.io/@syntaxtrash/9cb6ad003fe935228b2b24e5b3e1b9cc)
+- [Definitive Guide to Modern Git Commit Methodologies and Lifecycle Management](https://gist.io/@syntaxtrash/2c9d3f33a3badeae95d84895850712e3)

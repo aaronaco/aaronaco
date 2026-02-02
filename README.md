@@ -6,7 +6,9 @@ some things I geek out on:
   - evolutionary architecture
   - day 2 operations
   - system hardening
-    
+
+## yaps
+- [Stop losing the 'why'](https://gist.io/@aaronaco/04e04e105ca22e8c70c64ac5c47f7b4b)
 ## research logs
 (2am rabbit holes fueled by curiosity & token credits)
 - [The Architecture Decision Log: A Comprehensive Framework for Enterprise Knowledge Management](https://gist.io/@aaronaco/13b1eef42637f39fa719d1b79689095f)

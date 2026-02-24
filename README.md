@@ -6,7 +6,8 @@ some things I geek out on:
   - evolutionary architecture
   - day 2 operations
   - system hardening
-
+## personal projects
+- [piiranha-redactor-lib](https://github.com/aaronaco/piiranha-redactor-lib) - local PII detection and redaction library powered by Piiranha v1 (DeBERTa-v3).
 ## yaps
 - [Decisions that outlive the code.](https://gist.io/@aaronaco/04e04e105ca22e8c70c64ac5c47f7b4b)
 ## research logs

@@ -7,6 +7,7 @@ some things I geek out on:
   - day 2 operations
   - system hardening
 ## saw daylight
+- [privacy-filter-redactor-lib](https://github.com/aaronaco/privacy-filter-redactor-lib) - A high-performance Python library for local PII (Personally Identifiable Information) detection and redaction, powered by OpenAI's privacy-filter model.
 - [piiranha-redactor-lib](https://github.com/aaronaco/piiranha-redactor-lib) - An experimental local PII detection and redaction library powered by Piiranha v1 (DeBERTa-v3).
 ## yaps
 - [There was a version of this work that felt like discovery.](https://gist.io/@aaronaco/2a8239eb51c82ef106901bba8c2c3a19)

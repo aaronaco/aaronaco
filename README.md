@@ -1,8 +1,3 @@
-## hi, i'm aaron 👋
-i build things.
-sometimes they work.
-that's usually enough lol.
-
 ## saw daylight
 - [presidio-observer](https://github.com/aaronaco/presidio-observer) - Local developer tool for observing [Microsoft Presidio](https://github.com/microsoft/presidio/) for GenAI and agentic AI workflow and development.
 - [pii-intent-classifier-lib](https://github.com/aaronaco/pii-intent-classifier-lib) - Local PII detection and classification using Roblox's PII Classifier model and intent-based text analysis, built on FacebookAI's XLM-RoBERTa-Large.
